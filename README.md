@@ -1,2 +1,3 @@
 # Future-Site
-A site using bootstrap
+
+I made this site to train my skills with bootstrap.
